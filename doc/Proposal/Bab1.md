@@ -12,18 +12,21 @@ Berdasarkan masalah diatas, saya disini berusaha untuk merancang sebuah sistem k
 
 **1.2 Identifikasi Masalah**
 Dari latar belakang diatas maka dapat diidentifikasi menjadi beberapa masalah sebagai berikut :
+
 1.	Kurangnya aplikasi keamanan untuk rumah yang menyediakan real time alert
 2.	Memerlukan biaya yang mahal dan perangkat yang banyak untuk membangun alat keamanan untuk rumah
 3.	Belum efektif dan efisienya alat keamanan untuk rumah
 
 **1.3 Tujuan**
 Berdasarkan latar belakang dan rumusan masalah diatas, maka tujuan yang ingin dicapai adalah:
+
 1.	Menyediakan aplikasi keamanan untuk rumah secara real time alert
 2.	Tidak memerlukan biaya yang mahal dan perangkat yang banyak untuk membangun alat keamanan untuk rumah
 3.	Sangat efektif dan efisien karena pemilik rumah dapat langsung mengetahui orang yang tidak dikenal masuk kerumah walaupun pemilik atau pengguna tidak berada di dalam rumah
 
 **1.4 Ruang Lingkup**
 Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
+
 1.	Hanya terbatas pada monitoring rumah meliputi pemberian alert dan penyimpanan log atau histori daru file hasil monitoring
 2.	Alat yang digunakan adalah Raspberry Pi 2 dengan sensor HC-SR04 untuk mendeteksi jarak
 3.	Bahasa Pemograman yang digunakan python

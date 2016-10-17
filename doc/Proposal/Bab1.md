@@ -33,4 +33,8 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 
 **1.5 Rencana dan Jadwal Kerja**
 
+<p align="center">
+<img src="https://github.com/ProposalProyekTI2/Aplikasi-Home-Monitoring-dengan-WhatsApp-dan-Python/blob/master/img/jadwal.png">
+</p>
+
 
